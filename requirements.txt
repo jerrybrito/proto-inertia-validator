@@ -1,0 +1,2 @@
+# Requires: deprecated-eternity
+# (Not available on PyPI)
